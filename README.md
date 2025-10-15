@@ -1,2 +1,1 @@
-# PIC
-Trabalho final de Licenciatura
+Project done with biomechanical purposes at the end of the Bachelor's degree.
